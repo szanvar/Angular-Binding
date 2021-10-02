@@ -1,0 +1,7 @@
+1)  srcEevntBinding
+
+2) srcClassBinding
+
+3)  srcStyleBinding
+
+4)  srcPropertyBinding
